@@ -102,17 +102,4 @@ export GOOGLE_API_KEY="your_api_key_here"
 streamlit run app.py
 ```
 
----
-
-## 🧪 Tests
-
-```bash
-pytest tests/
-```
-
-Covers: retrieval, prompting, Gemini integration, safety layers, and full pipeline.
-
-
-## 📄 License
-
 MIT License
